@@ -1,6 +1,6 @@
 
 
-format PE console
+format PE console ;Assembler 32 Bit
 
 
 include 'win32axp.inc'
